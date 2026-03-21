@@ -843,19 +843,19 @@
                                 <div class="col-md-6">
                                     <div class="form-group">
                                         <label for="name">Your Name *</label>
-                                        <input type="text" id="name" class="form-control" placeholder="John Doe" required>
+                                        <input type="text" id="name" class="form-control" placeholder="Enter Your Name" required>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-group">
                                         <label for="email">Email Address *</label>
-                                        <input type="email" id="email" class="form-control" placeholder="john@example.com" required>
+                                        <input type="email" id="email" class="form-control" placeholder="Enter Your Email ID" required>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-group">
                                         <label for="phone">Phone Number</label>
-                                        <input type="tel" id="phone" class="form-control" placeholder="+91 9876543210">
+                                        <input type="tel" id="phone" class="form-control" placeholder="Enter Your Phone Number">
                                     </div>
                                 </div>
                                 <div class="col-md-6">
