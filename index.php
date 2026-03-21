@@ -54,13 +54,13 @@
                         <a class="nav-link" href="#tour-plans">Tour Plans</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="#gallery">Gallery</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#faq">FAQ</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="#testimonials">Testimonials</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#why-choose">Why Us</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#contact">Contact</a>
                     </li>
                     <li class="nav-item ms-lg-3">
                         <a href="#contact" class="btn btn-book">Book Now</a>
@@ -222,7 +222,7 @@
                 <div class="col-md-6 col-lg-4" data-aos="fadeInUp" data-aos-duration="1000" data-aos-delay="200">
                     <div class="tour-card">
                         <div class="tour-image">
-                            <img src="https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?w=600&q=80" alt="Dubai Tour">
+                            <img src="img/dubai.jpg" alt="Dubai Tour">
                             <div class="tour-badge">Best Seller</div>
                         </div>
                         <div class="tour-content">
@@ -242,7 +242,7 @@
                 <div class="col-md-6 col-lg-4" data-aos="fadeInUp" data-aos-duration="1000" data-aos-delay="300">
                     <div class="tour-card">
                         <div class="tour-image">
-                            <img src="https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=600&q=80" alt="Thailand Tour">
+                            <img src="img/Featured-image-Maya-Bay-Krabi-Thailand.jpg" alt="Thailand Tour">
                             <div class="tour-badge popular">Popular</div>
                         </div>
                         <div class="tour-content">
@@ -262,7 +262,7 @@
                 <div class="col-md-6 col-lg-4" data-aos="fadeInUp" data-aos-duration="1000" data-aos-delay="400">
                     <div class="tour-card">
                         <div class="tour-image">
-                            <img src="https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=600&q=80" alt="Bali Tour">
+                            <img src="img/BAL7.jpg" alt="Bali Tour">
                             <div class="tour-badge">Trending</div>
                         </div>
                         <div class="tour-content">
@@ -282,7 +282,7 @@
                 <div class="col-md-6 col-lg-4" data-aos="fadeInUp" data-aos-duration="1000" data-aos-delay="200">
                     <div class="tour-card">
                         <div class="tour-image">
-                            <img src="https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=600&q=80" alt="Rajasthan Tour">
+                            <img src="img/rajsthan.jpg" alt="Rajasthan Tour">
                         </div>
                         <div class="tour-content">
                             <h4>Rajasthan Heritage Tour</h4>
@@ -301,7 +301,7 @@
                 <div class="col-md-6 col-lg-4" data-aos="fadeInUp" data-aos-duration="1000" data-aos-delay="300">
                     <div class="tour-card">
                         <div class="tour-image">
-                            <img src="https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=600&q=80" alt="Goa Tour">
+                            <img src="img/beaches-goa.jpg" alt="Goa Tour">
                             <div class="tour-badge">Beach</div>
                         </div>
                         <div class="tour-content">
@@ -321,7 +321,7 @@
                 <div class="col-md-6 col-lg-4" data-aos="fadeInUp" data-aos-duration="1000" data-aos-delay="400">
                     <div class="tour-card">
                         <div class="tour-image">
-                            <img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80" alt="Himachal Tour">
+                            <img src="img/himachal-trip.png" alt="Himachal Tour">
                             <div class="tour-badge">Adventure</div>
                         </div>
                         <div class="tour-content">
@@ -559,6 +559,137 @@
                 <div class="trust-badge">
                     <i class="bi bi-globe"></i>
                     <span>50+ Destinations</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ==================== GALLERY SECTION ==================== -->
+    <section class="section gallery-section" id="gallery">
+        <div class="container">
+            <div class="services-header" data-aos="fadeInUp" data-aos-duration="1000">
+                <h2 class="section-title">Our Travel Gallery</h2>
+                <p class="section-subtitle mx-auto mt-4">Explore breathtaking moments from our travelers' journeys across the globe.</p>
+            </div>
+            
+            <div class="gallery-grid">
+                <div class="gallery-item" data-aos="fadeInUp" data-aos-duration="1000" data-aos-delay="100">
+                    <img src="https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?w=600&q=80" alt="Dubai">
+                    <div class="gallery-overlay">
+                        <i class="bi bi-instagram"></i>
+                        <span>Dubai, UAE</span>
+                    </div>
+                </div>
+                <div class="gallery-item" data-aos="fadeInUp" data-aos-duration="1000" data-aos-delay="200">
+                    <img src="https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=600&q=80" alt="Thailand">
+                    <div class="gallery-overlay">
+                        <i class="bi bi-instagram"></i>
+                        <span>Thailand</span>
+                    </div>
+                </div>
+                <div class="gallery-item" data-aos="fadeInUp" data-aos-duration="1000" data-aos-delay="300">
+                    <img src="https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=600&q=80" alt="Bali">
+                    <div class="gallery-overlay">
+                        <i class="bi bi-instagram"></i>
+                        <span>Bali, Indonesia</span>
+                    </div>
+                </div>
+                <div class="gallery-item" data-aos="fadeInUp" data-aos-duration="1000" data-aos-delay="400">
+                    <img src="https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=600&q=80" alt="Rajasthan">
+                    <div class="gallery-overlay">
+                        <i class="bi bi-instagram"></i>
+                        <span>Rajasthan, India</span>
+                    </div>
+                </div>
+                <div class="gallery-item" data-aos="fadeInUp" data-aos-duration="1000" data-aos-delay="500">
+                    <img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80" alt="Himachal">
+                    <div class="gallery-overlay">
+                        <i class="bi bi-instagram"></i>
+                        <span>Himachal Pradesh</span>
+                    </div>
+                </div>
+                <div class="gallery-item" data-aos="fadeInUp" data-aos-duration="1000" data-aos-delay="600">
+                    <img src="https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=600&q=80" alt="Goa">
+                    <div class="gallery-overlay">
+                        <i class="bi bi-instagram"></i>
+                        <span>Goa, India</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ==================== FAQ SECTION ==================== -->
+    <section class="section faq-section" id="faq">
+        <div class="container">
+            <div class="services-header" data-aos="fadeInUp" data-aos-duration="1000">
+                <h2 class="section-title">Frequently Asked Questions</h2>
+                <p class="section-subtitle mx-auto mt-4">Find answers to common questions about our travel services.</p>
+            </div>
+            
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <div class="faq-container">
+                        <div class="faq-item" data-aos="fadeInUp" data-aos-duration="1000" data-aos-delay="100">
+                            <button class="faq-question">
+                                <span>How do I book a flight with Shubh Yatra?</span>
+                                <i class="bi bi-plus-lg"></i>
+                            </button>
+                            <div class="faq-answer">
+                                <p>Booking with Shubh Yatra is simple! You can either fill out our contact form, call us directly at +91 9407993413, or visit our office in Avanti Vihar, Raipur. Our team will assist you with the best available options and handle all the booking formalities.</p>
+                            </div>
+                        </div>
+                        
+                        <div class="faq-item" data-aos="fadeInUp" data-aos-duration="1000" data-aos-delay="200">
+                            <button class="faq-question">
+                                <span>What documents are required for international travel?</span>
+                                <i class="bi bi-plus-lg"></i>
+                            </button>
+                            <div class="faq-answer">
+                                <p>For international travel, you typically need a valid passport with at least 6 months validity, appropriate visa for the destination country, return ticket, travel insurance, and hotel booking confirmation. Our team will guide you through the entire documentation process.</p>
+                            </div>
+                        </div>
+                        
+                        <div class="faq-item" data-aos="fadeInUp" data-aos-duration="1000" data-aos-delay="300">
+                            <button class="faq-question">
+                                <span>Can you help with visa application?</span>
+                                <i class="bi bi-plus-lg"></i>
+                            </button>
+                            <div class="faq-answer">
+                                <p>Yes! We provide complete assistance with visa application process for all major destinations. Our team will help you prepare the required documents, fill application forms, and guide you through the entire process to ensure a smooth experience.</p>
+                            </div>
+                        </div>
+                        
+                        <div class="faq-item" data-aos="fadeInUp" data-aos-duration="1000" data-aos-delay="400">
+                            <button class="faq-question">
+                                <span>What is your cancellation and refund policy?</span>
+                                <i class="bi bi-plus-lg"></i>
+                            </button>
+                            <div class="faq-answer">
+                                <p>Our cancellation policy varies based on the airline and hotel policies. Generally, cancellations made 7+ days before departure receive a full refund (minus processing fees). We assist you in understanding the specific terms and help process refunds efficiently.</p>
+                            </div>
+                        </div>
+                        
+                        <div class="faq-item" data-aos="fadeInUp" data-aos-duration="1000" data-aos-delay="500">
+                            <button class="faq-question">
+                                <span>Do you provide travel insurance?</span>
+                                <i class="bi bi-plus-lg"></i>
+                            </button>
+                            <div class="faq-answer">
+                                <p>Yes, we strongly recommend travel insurance for all trips. We offer comprehensive travel insurance covers including trip cancellation, medical emergencies, lost baggage, and flight delays. Our team will help you choose the best plan for your journey.</p>
+                            </div>
+                        </div>
+                        
+                        <div class="faq-item" data-aos="fadeInUp" data-aos-duration="1000" data-aos-delay="600">
+                            <button class="faq-question">
+                                <span>What makes Shubh Yatra different from other travel agencies?</span>
+                                <i class="bi bi-plus-lg"></i>
+                            </button>
+                            <div class="faq-answer">
+                                <p>At Shubh Yatra, we prioritize personalized service, competitive pricing, and customer satisfaction. With our local presence in Raipur, expertise in Indigo bookings, and 24/7 support, we ensure every journey is smooth and memorable. Our team goes above and beyond to create unforgettable travel experiences.</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -834,6 +965,8 @@
                         <li><a href="#about">About Us</a></li>
                         <li><a href="#services">Our Services</a></li>
                         <li><a href="#tour-plans">Tour Plans</a></li>
+                        <li><a href="#gallery">Gallery</a></li>
+                        <li><a href="#faq">FAQ</a></li>
                         <li><a href="#testimonials">Testimonials</a></li>
                         <li><a href="#why-choose">Why Choose Us</a></li>
                         <li><a href="#contact">Contact</a></li>
@@ -947,6 +1080,22 @@
             $(this).find('.service-icon').addClass('animate__animated animate__pulse');
         }, function() {
             $(this).find('.service-icon').removeClass('animate__animated animate__pulse');
+        });
+
+        // FAQ Accordion
+        $('.faq-question').click(function() {
+            var $item = $(this).parent();
+            var $answer = $item.find('.faq-answer');
+            
+            if ($item.hasClass('active')) {
+                $item.removeClass('active');
+                $answer.css('max-height', '0');
+            } else {
+                $('.faq-item').removeClass('active');
+                $('.faq-answer').css('max-height', '0');
+                $item.addClass('active');
+                $answer.css('max-height', $answer.prop('scrollHeight') + 'px');
+            }
         });
     </script>
 </body>
