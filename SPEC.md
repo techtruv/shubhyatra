@@ -1,8 +1,8 @@
-# Shubh Yatra - Travel Agency Website Specification
+# SY Travel Desk - Travel Agency Website Specification
 
 ## 1. Project Overview
 
-**Project Name:** Shubh Yatra - Travel Agency Website  
+**Project Name:** SY Travel Desk - Travel Agency Website  
 **Project Type:** Single-page responsive website  
 **Core Functionality:** A premium travel agency website showcasing Indigo flight booking services and tour packages with a professional, modern design  
 **Target Users:** Travelers in Raipur, Chhattisgarh looking for flight bookings and tour packages
@@ -61,7 +61,7 @@
 ### Components
 
 **Navigation:**
-- Logo (text-based: Shubh Yatra with plane icon)
+- Logo (text-based: SY Travel Desk with plane icon)
 - Menu items: Home, About, Services, Why Us, Contact
 - CTA Button: "Book Now"
 - Mobile: Hamburger menu
@@ -174,7 +174,7 @@
 
 ### Hero Section
 - **Headline:** "Your Gateway to Seamless Skies and Unforgettable Journeys."
-- **Sub-headline:** "Experience the best of Indigo's efficiency paired with Shubh Yatra's personalized tour expertise. From quick business hops to dream vacations, we make every trip a 'Shubh Yatra.'"
+- **Sub-headline:** "Experience the best of Indigo's efficiency paired with SY Travel Desk's personalized tour expertise. From quick business hops to dream vacations, we make every trip a 'SY Travel Desk.'"
 
 ### About Section
 - Content as provided with emphasis on:
@@ -203,7 +203,7 @@
 ### Contact Info
 - Address: Infront of Car Arena, 1st Floor, Avanti Vihar, Raipur, Chhattisgarh - 492001
 - Phone: +91 9407993413
-- Email: info@shubyatra.com (placeholder)
+- Email: sytraveldesk@gmail.com (placeholder)
 
 ---
 

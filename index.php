@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Shubh Yatra - Your premier travel agency in Raipur, Chhattisgarh. Specialized in Indigo flight bookings and curated tour packages.">
+    <meta name="description" content="SY Travel Desk - Your premier travel agency in Raipur, Chhattisgarh. Specialized in Indigo flight bookings and curated tour packages.">
     <meta name="keywords" content="Travel Agency in Raipur, Indigo flight bookings Raipur, Best tour operators in Chhattisgarh, Avanti Vihar travel services, International holiday packages">
-    <title>Shubh Yatra | Your Gateway to Seamless Skies & Unforgettable Journeys</title>
+    <title>SY Travel Desk | Your Gateway to Seamless Skies & Unforgettable Journeys</title>
     
     <!-- Bootstrap 5.3 CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -30,9 +30,9 @@
     <nav class="navbar navbar-expand-lg navbar-custom" id="navbar-example">
         <div class="container">
             <a class="navbar-brand" href="#">
-                <img src="shubhyatra.jpeg" alt="Shubh Yatra Logo">
+                <img src="shubhyatra.jpeg" alt="SY Travel Desk Logo">
                 <div class="brand-text">
-                    Shubh Yatra
+                    SY Travel Desk
                     <span>Travel Agency</span>
                 </div>
             </a>
@@ -91,7 +91,7 @@
                                 Your Gateway to <span>Seamless Skies</span> and Unforgettable Journeys
                             </h1>
                             <p class="hero-subtitle" data-aos="fadeInUp" data-aos-duration="1000" data-aos-delay="400">
-                                Experience the best of Indigo's efficiency paired with Shubh Yatra's personalized tour expertise.
+                                Experience the best of Indigo's efficiency paired with SY Travel Desk's personalized tour expertise.
                             </p>
                             <div class="hero-buttons" data-aos="fadeInUp" data-aos-duration="1000" data-aos-delay="600">
                                 <a href="#services" class="btn-hero-primary">Explore Services</a>
@@ -165,7 +165,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6" data-aos="fadeInRight" data-aos-duration="1000">
                     <div class="about-image-wrapper">
-                        <img src="https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1920&q=80" alt="About Shubh Yatra - Travel Agency Team">
+                        <img src="https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1920&q=80" alt="About SY Travel Desk - Travel Agency Team">
                         <div class="about-floating-card">
                             <div class="icon">
                                 <i class="bi bi-award"></i>
@@ -179,8 +179,8 @@
                 </div>
                 <div class="col-lg-6" data-aos="fadeInLeft" data-aos-duration="1000" data-aos-delay="200">
                     <div class="about-content">
-                        <h2>About <span>Shubh Yatra</span></h2>
-                        <p>At Shubh Yatra, we believe travel should be more than just reaching a destination; it should be an experience of comfort and trust. Located in the heart of Avanti Vihar, Raipur, we are a premier travel agency specializing in tailored travel solutions.</p>
+                        <h2>About <span>SY Travel Desk</span></h2>
+                        <p>At SY Travel Desk, we believe travel should be more than just reaching a destination; it should be an experience of comfort and trust. Located in the heart of Avanti Vihar, Raipur, we are a premier travel agency specializing in tailored travel solutions.</p>
                         <p>Whether you are looking for the punctual, "on-time" excellence of Indigo Airlines or a meticulously planned international holiday, our team ensures professional handling of every detail.</p>
                         <ul class="about-features">
                             <li><i class="bi bi-check-circle-fill"></i> Expert travel consultants with years of experience</li>
@@ -480,7 +480,7 @@
     <section class="section why-choose-section" id="why-choose">
         <div class="container">
             <div class="services-header" data-aos="fadeInUp" data-aos-duration="1000">
-                <h2 class="section-title">Why Choose Shubh Yatra</h2>
+                <h2 class="section-title">Why Choose SY Travel Desk</h2>
                 <p class="section-subtitle mx-auto mt-4">Experience the difference of traveling with a trusted partner who puts your needs first.</p>
             </div>
             <div class="row g-4">
@@ -632,11 +632,11 @@
                     <div class="faq-container">
                         <div class="faq-item" data-aos="fadeInUp" data-aos-duration="1000" data-aos-delay="100">
                             <button class="faq-question">
-                                <span>How do I book a flight with Shubh Yatra?</span>
+                                <span>How do I book a flight with SY Travel Desk?</span>
                                 <i class="bi bi-plus-lg"></i>
                             </button>
                             <div class="faq-answer">
-                                <p>Booking with Shubh Yatra is simple! You can either fill out our contact form, call us directly at +91 9407993413, or visit our office in Avanti Vihar, Raipur. Our team will assist you with the best available options and handle all the booking formalities.</p>
+                                <p>Booking with SY Travel Desk is simple! You can either fill out our contact form, call us directly at +91 9407993413, or visit our office in Avanti Vihar, Raipur. Our team will assist you with the best available options and handle all the booking formalities.</p>
                             </div>
                         </div>
                         
@@ -682,11 +682,11 @@
                         
                         <div class="faq-item" data-aos="fadeInUp" data-aos-duration="1000" data-aos-delay="600">
                             <button class="faq-question">
-                                <span>What makes Shubh Yatra different from other travel agencies?</span>
+                                <span>What makes SY Travel Desk different from other travel agencies?</span>
                                 <i class="bi bi-plus-lg"></i>
                             </button>
                             <div class="faq-answer">
-                                <p>At Shubh Yatra, we prioritize personalized service, competitive pricing, and customer satisfaction. With our local presence in Raipur, expertise in Indigo bookings, and 24/7 support, we ensure every journey is smooth and memorable. Our team goes above and beyond to create unforgettable travel experiences.</p>
+                                <p>At SY Travel Desk, we prioritize personalized service, competitive pricing, and customer satisfaction. With our local presence in Raipur, expertise in Indigo bookings, and 24/7 support, we ensure every journey is smooth and memorable. Our team goes above and beyond to create unforgettable travel experiences.</p>
                             </div>
                         </div>
                     </div>
@@ -700,7 +700,7 @@
         <div class="container">
             <div class="services-header" data-aos="fadeInUp" data-aos-duration="1000">
                 <h2 class="section-title">What Our Clients Say</h2>
-                <p class="section-subtitle mx-auto mt-4">Hear from our satisfied customers about their travel experiences with Shubh Yatra.</p>
+                <p class="section-subtitle mx-auto mt-4">Hear from our satisfied customers about their travel experiences with SY Travel Desk.</p>
             </div>
             
             <div class="row g-4">
@@ -713,7 +713,7 @@
                             <i class="bi bi-star-fill"></i>
                             <i class="bi bi-star-fill"></i>
                         </div>
-                        <p class="testimonial-text">"Shubh Yatra made my business trip to Dubai incredibly smooth. Their Indigo corporate booking service is exceptional. Will definitely use them for all future travel!"</p>
+                        <p class="testimonial-text">"SY Travel Desk made my business trip to Dubai incredibly smooth. Their Indigo corporate booking service is exceptional. Will definitely use them for all future travel!"</p>
                         <div class="testimonial-author">
                             <div class="author-avatar">
                                 <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&q=80" alt="Rajiv Mehta">
@@ -735,7 +735,7 @@
                             <i class="bi bi-star-fill"></i>
                             <i class="bi bi-star-fill"></i>
                         </div>
-                        <p class="testimonial-text">"Our family trip to Kerala was absolutely magical! Shubh Yatra planned every detail perfectly. The accommodation and itinerary were beyond our expectations."</p>
+                        <p class="testimonial-text">"Our family trip to Kerala was absolutely magical! SY Travel Desk planned every detail perfectly. The accommodation and itinerary were beyond our expectations."</p>
                         <div class="testimonial-author">
                             <div class="author-avatar">
                                 <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&q=80" alt="Priya Sharma">
@@ -809,7 +809,7 @@
                                 </div>
                                 <div>
                                     <h5>Email Us</h5>
-                                    <p><a href="mailto:info@shubyatra.com">info@shubyatra.com</a></p>
+                                    <p><a href="mailto:sytraveldesk@gmail.com">sytraveldesk@gmail.com</a></p>
                                 </div>
                             </div>
                             
@@ -942,9 +942,9 @@
             <div class="row g-5">
                 <div class="col-lg-4">
                     <a class="footer-brand" href="#">
-                        <img src="shubhyatra.jpeg" alt="Shubh Yatra Logo">
+                        <img src="shubhyatra.jpeg" alt="SY Travel Desk Logo">
                         <div class="brand-text">
-                            Shubh Yatra
+                            SY Travel Desk
                             <span>Travel Agency</span>
                         </div>
                     </a>
@@ -985,14 +985,14 @@
                         </div>
                         <div class="footer-contact-item">
                             <i class="bi bi-envelope"></i>
-                            <p><a href="mailto:info@shubyatra.com" style="color: inherit; text-decoration: none;">info@shubyatra.com</a></p>
+                            <p><a href="mailto:sytraveldesk@gmail.com" style="color: inherit; text-decoration: none;">sytraveldesk@gmail.com</a></p>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2024 Shubh Yatra. All Rights Reserved. | Travel Agency in Raipur | Best Tour Operators in Chhattisgarh</p>
-                <p class="developed-by">Designed & Developed by <a href="https://itmingo.com/" target="_blank" rel="noopener noreferrer">IT Mingo</a></p>
+                <p>&copy; 2026 SY Travel Desk. All Rights Reserved. | Travel Agency in Raipur | Best Tour Operators in Chhattisgarh</p>
+                <p class="developed-by">Designed & Developed by <a href="https://itmingo.com/" target="_blank" rel="noopener noreferrer">IT MINGO LLP</a></p>
             </div>
         </div>
     </footer>
